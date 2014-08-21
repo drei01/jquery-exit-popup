@@ -1,0 +1,31 @@
+#exitpopup{
+	text-align:center;
+	width:670px; 
+	height:450px;
+	margin:0px auto; 
+	display:none; 
+	position:fixed; 
+	color:#ffffff; 
+	padding:20px; 
+	-webkit-border-radius: 4px; 
+	-moz-border-radius: 4px; 
+	border-radius: 4px; 
+	z-index:999999; 
+	background:rgb(20, 20, 20); 
+	background:rgba(0, 0, 0, 0.8);
+}
+
+#exitpopup h1{
+	margin-top:0px;
+	padding-top:0px;
+}	
+	
+#exitpopup p{
+	text-align:left;
+}
+
+#exitpopup img{
+	width:400px; 
+	border:0px; 
+	margin:0px auto;
+}
